@@ -1,2 +1,2 @@
 #!/bin/bash
-pwd: print current_working_directory
+/tmp/correction/5258233702852537272373335992914108739937_5/205/67345/0x00-shell_basics
